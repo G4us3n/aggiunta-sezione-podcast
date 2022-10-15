@@ -1,0 +1,6 @@
+[login()] - [15-03-2021 00:20:48] - [130.25.106.136] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"15-03-2021 00:20:48","ip":"130.25.106.136"}] - [userID: 63;programID: ]
+[setOnAir()] - [15-03-2021 00:21:07] - [130.25.106.136] - [{"currentUserID":63,"currentUserNome":"Alessandra","currentUserCognome":"Di Nardo","programid":19,"programma":"Domani all'una","onair":0,"day":"16-03-2021"}] - [userID: 63;programID: 19]
+[login()] - [15-03-2021 00:37:47] - [5.95.136.238] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"15-03-2021 00:37:47","ip":"5.95.136.238"}] - [userID: 62;programID: ]
+[login()] - [15-03-2021 15:48:08] - [5.95.136.238] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"15-03-2021 15:48:08","ip":"5.95.136.238"}] - [userID: 62;programID: ]
+[login()] - [15-03-2021 19:01:40] - [131.175.119.96] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"15-03-2021 19:01:40","ip":"131.175.119.96"}] - [userID: 62;programID: ]
+[login()] - [15-03-2021 20:07:03] - [37.162.36.251] - [{"id":126,"nome":"Erjon","cognome":"Kadiu","date":"15-03-2021 20:07:03","ip":"37.162.36.251"}] - [userID: 126;programID: ]

@@ -1,0 +1,2 @@
+[login()] - [30-08-2021 11:34:26] - [5.95.136.238] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"30-08-2021 11:34:26","ip":"5.95.136.238"}] - [userID: 62;programID: ]
+[login()] - [30-08-2021 19:32:56] - [37.160.13.24] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"30-08-2021 19:32:56","ip":"37.160.13.24"}] - [userID: 62;programID: ]

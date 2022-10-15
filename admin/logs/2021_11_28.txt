@@ -1,0 +1,7 @@
+[login()] - [28-11-2021 09:57:33] - [82.181.142.130] - [{"id":182,"nome":"Bruna","cognome":"Lleshi","date":"28-11-2021 09:57:33","ip":"82.181.142.130"}] - [userID: 182;programID: ]
+[login()] - [28-11-2021 12:01:51] - [5.90.46.202] - [{"id":163,"nome":"Luciano","cognome":"Oliva","date":"28-11-2021 12:01:51","ip":"5.90.46.202"}] - [userID: 163;programID: ]
+[login()] - [28-11-2021 15:46:32] - [93.71.126.37] - [{"id":118,"nome":"Giulio Mario","cognome":"Martena","date":"28-11-2021 15:46:32","ip":"93.71.126.37"}] - [userID: 118;programID: ]
+[login()] - [28-11-2021 15:46:49] - [2.36.106.206] - [{"id":163,"nome":"Luciano","cognome":"Oliva","date":"28-11-2021 15:46:49","ip":"2.36.106.206"}] - [userID: 163;programID: ]
+[login()] - [28-11-2021 16:37:06] - [93.47.225.110] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"28-11-2021 16:37:06","ip":"93.47.225.110"}] - [userID: 111;programID: ]
+[setNewsData()] - [28-11-2021 17:07:46] - [2.36.106.206] - [{"userID":163,"userNome":"Luciano","userCognome":"Oliva","programID":"redazione","programNome":"redazione","newsID":565,"newsTitolo":"Mondrian in mostra al Mudec","foto":"fb56b91b1f4ea0de3af9c85f5f4aa832.png","parameter":"foto"}] - [userID: 163;programID: ]
+[setNewsData()] - [28-11-2021 17:08:46] - [2.36.106.206] - [{"userID":163,"userNome":"Luciano","userCognome":"Oliva","programID":"redazione","programNome":"redazione","newsID":565,"newsTitolo":"Mondrian in mostra al Mudec","visibile":1,"parameter":"visibile"}] - [userID: 163;programID: ]

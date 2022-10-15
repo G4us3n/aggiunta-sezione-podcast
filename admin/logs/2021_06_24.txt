@@ -1,0 +1,6 @@
+[login()] - [24-06-2021 12:55:52] - [131.175.119.96] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"24-06-2021 12:55:52","ip":"131.175.119.96"}] - [userID: 63;programID: ]
+[login()] - [24-06-2021 13:44:36] - [131.175.119.96] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"24-06-2021 13:44:36","ip":"131.175.119.96"}] - [userID: 147;programID: ]
+[login()] - [24-06-2021 14:07:42] - [131.175.119.96] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"24-06-2021 14:07:42","ip":"131.175.119.96"}] - [userID: 147;programID: ]
+[login()] - [24-06-2021 14:30:33] - [131.175.147.3] - [{"id":184,"nome":"Angelo","cognome":"Boglione","date":"24-06-2021 14:30:33","ip":"131.175.147.3"}] - [userID: 184;programID: ]
+[login()] - [24-06-2021 15:03:24] - [131.175.147.2] - [{"id":185,"nome":"Ada","cognome":"Bacigalupo","date":"24-06-2021 15:03:24","ip":"131.175.147.2"}] - [userID: 185;programID: ]
+[login()] - [24-06-2021 16:58:16] - [93.41.121.130] - [{"id":192,"nome":"Alice","cognome":"Simionato","date":"24-06-2021 16:58:16","ip":"93.41.121.130"}] - [userID: 192;programID: ]

@@ -1,0 +1,2 @@
+[login()] - [02-05-2021 22:50:35] - [93.146.37.166] - [{"id":169,"nome":"Leonardo","cognome":"Matta","date":"02-05-2021 22:50:35","ip":"93.146.37.166"}] - [userID: 169;programID: ]
+[logout()] - [02-05-2021 22:51:07] - [93.146.37.166] - [{"id":169,"nome":"Leonardo","cognome":"Matta","date":"02-05-2021 22:51:07","ip":"93.146.37.166"}] - [userID: ;programID: ]

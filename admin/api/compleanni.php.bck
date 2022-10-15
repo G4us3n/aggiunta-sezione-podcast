@@ -1,0 +1,36 @@
+<?php
+$api_token = '57kgUb6dTbHNhOdjU3rnN8FmPdaNLnSauisu3R0g';
+if(!isset($_GET['token']) || $_GET['token'] != $api_token) {
+	die();
+}
+define('NOLOGIN',1);
+include('../includes/global.php');
+$users = Utenti::find('all', array('conditions' => "attivo = 2 and id != 1 and data_nascita LIKE '".format_date('d/m/')."%'"));
+$birthdays = array();
+
+/*
+if(date('d/m') == "12/12") {
+        $users = Utenti::find('all', array('conditions' => "attivo = 2"));
+}
+ */
+
+foreach($users as $user) {
+	$name = $user->nome." ".$user->cognome;
+	$age  = date('Y') - (int)($user->data_nascita[6].$user->data_nascita[7].$user->data_nascita[8].$user->data_nascita[9]);
+	$telegram = $user->telegram;
+	$birthdays[] = array('name' => $name, 'age' => $age, 'telegram' => $telegram);
+}
+
+
+/* Maiux bug
+if(date('d/m') == "12/12") {
+	$bb = array();
+	foreach(array_rand($birthdays, 10) as $bx) {
+		$bb[] = $birthdays[$bx];
+	}
+	$birthdays = $bb;
+}
+ */
+
+echo json_encode($birthdays);
+?>

@@ -1,0 +1,7 @@
+[login()] - [06-01-2022 01:44:29] - [2.36.107.0] - [{"id":163,"nome":"Luciano","cognome":"Oliva","date":"06-01-2022 01:44:29","ip":"2.36.107.0"}] - [userID: 163;programID: ]
+[login()] - [06-01-2022 12:00:46] - [2.36.107.0] - [{"id":163,"nome":"Luciano","cognome":"Oliva","date":"06-01-2022 12:00:46","ip":"2.36.107.0"}] - [userID: 163;programID: ]
+[login()] - [06-01-2022 13:08:55] - [2.36.107.0] - [{"id":163,"nome":"Luciano","cognome":"Oliva","date":"06-01-2022 13:08:55","ip":"2.36.107.0"}] - [userID: 163;programID: ]
+[creapodcast()] - [06-01-2022 13:10:00] - [2.36.107.0] - [{"id":"2185","programmi_id":null,"utenti_id":163,"giorno":23,"mese":12,"anno":2021,"time":1641471000,"link":"https:\/\/www.mixcloud.com\/brINDIEsi\/brindiamo-al-23-dicembre\/","link_youtube":"","views":0,"visibile":1,"global":1,"download":0,"filedownload":null,"filesize":null,"userID":163,"userNome":"Luciano","userCognome":"Oliva","programmaID":"redazione","programmaNome":"redazione"}] - [userID: 163;programID: ]
+[login()] - [06-01-2022 15:07:19] - [5.95.136.238] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"06-01-2022 15:07:19","ip":"5.95.136.238"}] - [userID: 147;programID: ]
+[login()] - [06-01-2022 15:07:35] - [5.95.136.238] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"06-01-2022 15:07:35","ip":"5.95.136.238"}] - [userID: 62;programID: ]
+[login()] - [06-01-2022 17:54:41] - [80.183.32.68] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"06-01-2022 17:54:41","ip":"80.183.32.68"}] - [userID: 111;programID: ]

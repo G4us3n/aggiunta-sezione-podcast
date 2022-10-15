@@ -1,0 +1,2 @@
+[login()] - [02-01-2022 16:06:15] - [46.217.200.146] - [{"id":206,"nome":"Angela","cognome":"Petrovska","date":"02-01-2022 16:06:15","ip":"46.217.200.146"}] - [userID: 206;programID: ]
+[setUserData()] - [02-01-2022 16:09:02] - [46.217.200.146] - [{"userID":206,"userNome":"Angela","userCognome":"Petrovska","foto":"photos\/user\/16475e5752f1e6e24ed9b416575a14bc.jpg","parameter":"foto"}] - [userID: 206;programID: ]

@@ -1,0 +1,30 @@
+<?php
+//error_reporting(E_ALL);
+//ini_set('display_errors', 'On');
+
+define('NOLOGIN',1);
+include("../includes/global.php");
+try {
+    $userActions->checkUserSession();
+    
+    $permission = $_GET['check_role'];
+    if (!isset($permission) || $userActions->isUserAbleTo($permission)){
+        $tmp = $userActions->getCurrentUser();
+        die(json_encode(Array(
+	    "id" => $tmp->id,
+	    "nome" => $tmp->nome,
+	    "cognome" => $tmp->cognome,
+	    "email" => $tmp->email,
+	    "codice_fiscale" => $tmp->codice_fiscale
+        )));
+    }
+    else {
+         header($_SERVER["SERVER_PROTOCOL"]." 403 Forbidden", true, 403);
+    }
+}
+catch (Exception $e){
+    print_r($e);
+    header('WWW-Authenticate: Bearer realm="https://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']) . '/doLogin.php?noredirect"');
+    header($_SERVER["SERVER_PROTOCOL"]." 401 Unauthorized", true, 401);
+}
+?>

@@ -1,0 +1,2 @@
+[login()] - [12-06-2021 21:42:04] - [37.160.14.60] - [{"id":67,"nome":"Mirko","cognome":"Li Veli","date":"12-06-2021 21:42:04","ip":"37.160.14.60"}] - [userID: 67;programID: ]
+[login()] - [12-06-2021 23:08:25] - [176.200.198.84] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"12-06-2021 23:08:25","ip":"176.200.198.84"}] - [userID: 63;programID: ]

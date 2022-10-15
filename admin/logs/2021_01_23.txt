@@ -1,0 +1,2 @@
+[login()] - [23-01-2021 00:19:17] - [93.144.88.93] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"23-01-2021 00:19:17","ip":"93.144.88.93"}] - [userID: 63;programID: ]
+[setUserData()] - [23-01-2021 00:19:43] - [93.144.88.93] - [{"userID":168,"userNome":"Andrea Luigi","userCognome":"Maggi","telegram":"Andreapietrovdm94","parameter":"telegram","adminID":63,"adminNome":"Alessandra","adminCognome":"Di Nardo"}] - [userID: 63;programID: ]

@@ -1,0 +1,8 @@
+[login()] - [21-07-2022 11:45:32] - [31.190.197.195] - [{"id":91,"nome":"Giada","cognome":"Agnoli","date":"21-07-2022 11:45:32","ip":"31.190.197.195"}] - [userID: 91;programID: ]
+[login()] - [21-07-2022 14:06:19] - [176.200.160.163] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"21-07-2022 14:06:19","ip":"176.200.160.163"}] - [userID: 63;programID: ]
+[login()] - [21-07-2022 16:23:12] - [131.175.119.96] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"21-07-2022 16:23:12","ip":"131.175.119.96"}] - [userID: 147;programID: ]
+[creapodcast()] - [21-07-2022 16:23:38] - [131.175.119.96] - [{"id":"2411","programmi_id":47,"utenti_id":147,"giorno":21,"mese":7,"anno":2022,"time":1658413418,"link":"https:\/\/www.mixcloud.com\/poliradio\/intervista-a-emo-night\/","link_youtube":"","views":0,"visibile":1,"global":0,"download":0,"filedownload":null,"filesize":null,"userID":147,"userNome":"Alessandro","userCognome":"Zito","programmaID":47,"programmaNome":"PILLS"}] - [userID: 147;programID: 47]
+[login()] - [21-07-2022 16:35:19] - [93.32.128.234] - [{"id":91,"nome":"Giada","cognome":"Agnoli","date":"21-07-2022 16:35:19","ip":"93.32.128.234"}] - [userID: 91;programID: ]
+[logout()] - [21-07-2022 17:05:11] - [131.175.119.96] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"21-07-2022 17:05:11","ip":"131.175.119.96"}] - [userID: ;programID: ]
+[login()] - [21-07-2022 17:09:31] - [93.35.243.9] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"21-07-2022 17:09:31","ip":"93.35.243.9"}] - [userID: 33;programID: ]
+[login()] - [21-07-2022 20:52:49] - [95.74.103.146] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"21-07-2022 20:52:49","ip":"95.74.103.146"}] - [userID: 147;programID: ]

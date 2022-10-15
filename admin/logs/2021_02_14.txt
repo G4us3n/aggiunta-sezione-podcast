@@ -1,0 +1,6 @@
+[login()] - [14-02-2021 17:35:35] - [93.41.2.3] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"14-02-2021 17:35:35","ip":"93.41.2.3"}] - [userID: 62;programID: ]
+[setUserData()] - [14-02-2021 17:36:33] - [93.41.2.3] - [{"userID":62,"userNome":"Giovanni","userCognome":"Cassani","domicilio_comune":"Milano","parameter":"domicilio_comune"}] - [userID: 62;programID: ]
+[setUserData()] - [14-02-2021 17:36:33] - [93.41.2.3] - [{"userID":62,"userNome":"Giovanni","userCognome":"Cassani","domicilio_provincia":"Mi","parameter":"domicilio_provincia"}] - [userID: 62;programID: ]
+[setUserData()] - [14-02-2021 17:36:33] - [93.41.2.3] - [{"userID":62,"userNome":"Giovanni","userCognome":"Cassani","domicilio_cap":"20131","parameter":"domicilio_cap"}] - [userID: 62;programID: ]
+[setUserData()] - [14-02-2021 17:36:33] - [93.41.2.3] - [{"userID":62,"userNome":"Giovanni","userCognome":"Cassani","domicilio_indirizzo":"Piazzale Gabrio Piola","parameter":"domicilio_indirizzo"}] - [userID: 62;programID: ]
+[setUserData()] - [14-02-2021 17:36:33] - [93.41.2.3] - [{"userID":62,"userNome":"Giovanni","userCognome":"Cassani","domicilio_civico":"5","parameter":"domicilio_civico"}] - [userID: 62;programID: ]

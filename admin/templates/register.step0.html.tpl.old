@@ -1,0 +1,179 @@
+<center>
+    <h2 class="form-signin-heading">Registrazione Associato</h2>
+    <br>
+</center>
+<?php if(isset($errors)) { ?>
+<div class="alert alert-danger">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <?php foreach($errors as $error) {
+        echo $error.'<br>';
+    }
+    ?>
+</div>
+<?php } ?>
+<form class="form-horizontal" method="post">
+    <div class="control-group">
+        <label class="control-label" for="inputNome"><strong>Nome:</strong></label>
+        <div class="controls">
+            <input name="nome" type="text" id="inputNome" placeholder="Nome"<?php echo isset($_POST['nome']) ? ' value="'.hfix($_POST['nome']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputCognome"><strong>Cognome:</strong></label>
+        <div class="controls">
+            <input name="cognome" type="text" id="inputCognome" placeholder="Cognome"<?php echo isset($_POST['cognome']) ? ' value="'.hfix($_POST['cognome']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputNome"><strong>Pseudonimo:</strong></label>
+        <div class="controls">
+            <input name="pseudonimo" type="text" id="inputPseudonimo" placeholder="pseudonimo"<?php echo isset($_POST['pseudonimo']) ? ' value="'.hfix($_POST['pseudonimo']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputSesso"><strong>Sesso:</strong></label>
+        <div class="controls">
+            <label class="radio">
+                <input name="sesso" type="radio" id="inputSesso" value="0"<?php echo isset($_POST['sesso']) ? ($_POST['sesso'] == 0 ? ' checked' : '') : ''; ?>> Maschio
+            </label>
+            <label class="radio">
+                <input name="sesso" type="radio" id="inputSesso" value="1"<?php echo isset($_POST['sesso']) ? ($_POST['sesso'] == 1 ? ' checked' : '') : ''; ?>> Femmina
+            </label>
+            <label class="radio">
+                <input name="sesso" type="radio" id="inputSesso" value="2"<?php echo isset($_POST['sesso']) ? ($_POST['sesso'] == 2 ? ' checked' : '') : ''; ?>> Altro
+            </label>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputData"><strong>Data di Nascita:</strong></label>
+        <div class="controls">
+            <select name="giorno" style="width: 55px;">
+                <option value=""></option>
+                <?php for($a = 1; $a <= 31; $a++) { ?>
+                <option value="<?php echo $a < 10 ? '0'.$a : $a; ?>"<?php echo isset($_POST['giorno']) ? ((int)$_POST['giorno'] == $a ? 'selected' : '') : ''; ?>><?php echo $a < 10 ? '0'.$a : $a; ?></option>
+                <?php } ?>
+            </select>
+            <select name="mese" style="width: 100px;">
+                <option value=""></option>
+                <?php
+                for($a = 1; $a < 13; $a++) { ?>
+                <option value="<?php echo $a; ?>"<?php echo isset($_POST['mese']) ? ((int)$_POST['mese'] == $a ? 'selected' : '') : ''; ?>><?php echo $mesiValue[$a]; ?></option>
+                <?php } ?>
+            </select>
+            <select name="anno" style="width: 70px;">
+                <option value=""></option>
+                <?php for($a = date('Y')-18; $a >= date('Y')-90; $a--) { ?>
+                <option value="<?php echo $a; ?>"<?php echo isset($_POST['anno']) ? ((int)$_POST['anno'] == $a ? 'selected' : '') : ''; ?>><?php echo $a; ?></option>
+                <?php } ?>
+            </select>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputComuneNascita"><strong>Comune di nascita:</strong></label>
+        <div class="controls">
+            <input name="comune_nascita" type="text" id="inputComuneNascita" placeholder="Comune di nascita"<?php echo isset($_POST['comune_nascita']) ? ' value="'.hfix($_POST['comune_nascita']).'"' : ''; ?>>
+            <input name="provincia_nascita" type="text" placeholder="Provincia"<?php echo isset($_POST['provincia_nascita']) ? ' value="'.hfix($_POST['provincia_nascita']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputCodiceFiscale"><strong>Codice Fiscale:</strong></label>
+        <div class="controls">
+            <input name="codice_fiscale" type="text" id="inputCodiceFiscale" placeholder="Codice Fiscale"<?php echo isset($_POST['codice_fiscale']) ? ' value="'.hfix($_POST['codice_fiscale']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputCartaIdentita"><strong>Carta d'identit&agrave;:</strong></label>
+        <div class="controls">
+            <input name="carta_identita" type="text" id="inputCartaIdentita" placeholder="Carta d'Identit&agrave;"<?php echo isset($_POST['carta_identita']) ? ' value="'.hfix($_POST['carta_identita']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="residenza_comune"><strong>Residenza:</strong></label>
+        <div class="controls">
+            <input name="residenza_comune" id="residenza_comune" type="text" placeholder="Comune"<?php echo isset($_POST['residenza_comune']) ? ' value="'.hfix($_POST['residenza_comune']).'"' : ''; ?>>
+            <input name="residenza_provincia" id="residenza_provincia" type="text" placeholder="Provincia"<?php echo isset($_POST['residenza_provincia']) ? ' value="'.hfix($_POST['residenza_provincia']).'"' : ''; ?>>
+            <input name="residenza_cap" id="residenza_cap" type="text" placeholder="CAP"<?php echo isset($_POST['residenza_cap']) ? ' value="'.hfix($_POST['residenza_cap']).'"' : ''; ?>>
+            <input name="residenza_indirizzo" id="residenza_indirizzo" type="text" placeholder="Indirizzo"<?php echo isset($_POST['residenza_indirizzo']) ? ' value="'.hfix($_POST['residenza_indirizzo']).'"' : ''; ?>>
+            <input name="residenza_civico" id="residenza_civico" type="text" placeholder="Numero civico"<?php echo isset($_POST['residenza_civico']) ? ' value="'.hfix($_POST['residenza_civico']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="domicilio_comune"><strong>Domicilio: <i class="icon-edit" onclick="copiaDomicilio();" title="Copia Residenza"></i> </strong></label>
+        <div class="controls">
+            <input name="domicilio_comune" id="domicilio_comune" type="text" placeholder="Comune"<?php echo isset($_POST['domicilio_comune']) ? ' value="'.hfix($_POST['domicilio_comune']).'"' : ''; ?>>
+            <input name="domicilio_provincia" id="domicilio_provincia" type="text" placeholder="Provincia"<?php echo isset($_POST['domicilio_provincia']) ? ' value="'.hfix($_POST['domicilio_provincia']).'"' : ''; ?>>
+            <input name="domicilio_cap" id="domicilio_cap" type="text" placeholder="CAP"<?php echo isset($_POST['domicilio_cap']) ? ' value="'.hfix($_POST['domicilio_cap']).'"' : ''; ?>>
+            <input name="domicilio_indirizzo" id="domicilio_indirizzo" type="text" placeholder="Indirizzo"<?php echo isset($_POST['domicilio_indirizzo']) ? ' value="'.hfix($_POST['domicilio_indirizzo']).'"' : ''; ?>>
+            <input name="domicilio_civico" id="domicilio_civico" type="text" placeholder="Numero civico"<?php echo isset($_POST['domicilio_civico']) ? ' value="'.hfix($_POST['domicilio_civico']).'"' : ''; ?>>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <label class="control-label" for="inputCodicePersona"><strong>Codice Persona:</strong></label>
+        <div class="controls">
+            <input name="codice_persona" type="text" id="inputCodicePersona" placeholder="Codice Persona"<?php echo isset($_POST['codice_persona']) ? ' value="'.hfix($_POST['codice_persona']).'"' : ''; ?>>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <label class="control-label" for="inputCorsoLaurea"><strong>Corso di Laurea:</strong></label>
+        <div class="controls">
+            <input name="corso_laurea" type="text" id="inputCorsoLaurea" placeholder="Corso di Laurea"<?php echo isset($_POST['corso_laurea']) ? ' value="'.hfix($_POST['corso_laurea']).'"' : ''; ?>>
+        </div>
+    </div>
+
+    <div class="control-group">
+        <label class="control-label" for="inputEmail"><strong>Email:</strong></label>
+        <div class="controls">
+            <input name="email" type="text" id="inputEmail" placeholder="Email"<?php echo isset($_POST['email']) ? ' value="'.hfix($_POST['email']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputTelefono"><strong>Telefono:</strong></label>
+        <div class="controls">
+            <div class="input-prepend">
+                <span class="add-on" style="height: 26px; line-height: 26px;">+39</span>
+                <input name="telefono" type="text" id="inputTelefono" style="width: 170px;" placeholder="Telefono"<?php echo isset($_POST['telefono']) ? ' value="'.hfix($_POST['telefono']).'"' : ''; ?>>
+            </div>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputTelegram"><strong>Telegram:</strong></label>
+        <div class="controls">
+            <div class="input-prepend">
+                <span class="add-on" style="height: 26px; line-height: 26px;">@</span>
+                <input name="telegram" type="text" id="inputTelegram" style="width: 170px;" placeholder="username"<?php echo isset($_POST['telegram']) ? ' value="'.hfix($_POST['telegram']).'"' : ''; ?>>
+            </div>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputDiscord"><strong>Discord: (Opzionale)</strong></label>
+        <div class="controls">
+            <input name="discord" type="text" id="inputDiscord" style="width: 170px;" placeholder="username#id"<?php echo isset($_POST['discord']) ? ' value="'.hfix($_POST['discord']).'"' : ''; ?>>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputPassword"><strong>Password:</strong></label>
+        <div class="controls">
+            <input name="password" type="password" id="inputPassword" placeholder="Password">
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="inputPassword2"><strong>Ripeti Password:</strong></label>
+        <div class="controls">
+            <input name="password2" type="password" id="inputPassword2" placeholder="Ripeti Password">
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label"></label>
+        <div class="controls">
+        <label class="checkbox"><input type="checkbox" name="privacy"> Ho letto e accetto l'<a href="<?php echo $this->base_url; ?>privacy.html" target="_BLANK">Informativa sulla Privacy</a></label>
+        </div>
+    </div>
+    <div class="control-group">
+        <div class="controls">
+            <div class="g-recaptcha" data-sitekey="6LeEtf4SAAAAAMHrWah1-bCB3ZEya64vQolLPhXR"></div><br>
+            <button type="submit" class="btn btn-primary"><strong>Registrati</strong></button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,7 @@
+[login()] - [18-06-2022 12:08:03] - [93.34.128.15] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"18-06-2022 12:08:03","ip":"93.34.128.15"}] - [userID: 147;programID: ]
+[login()] - [18-06-2022 13:14:32] - [101.56.50.85] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"18-06-2022 13:14:32","ip":"101.56.50.85"}] - [userID: 63;programID: ]
+[login()] - [18-06-2022 14:31:20] - [82.48.64.181] - [{"id":200,"nome":"Elisa","cognome":"Castelli","date":"18-06-2022 14:31:20","ip":"82.48.64.181"}] - [userID: 200;programID: ]
+[creapodcast()] - [18-06-2022 15:17:44] - [82.48.64.181] - [{"id":"2402","programmi_id":1,"utenti_id":200,"giorno":17,"mese":6,"anno":2022,"time":1655558264,"link":"https:\/\/www.mixcloud.com\/Soundcheck_PoliRadio\/guarna-soundcheck-2022\/","link_youtube":"","views":0,"visibile":1,"global":0,"download":0,"filedownload":null,"filesize":null,"userID":200,"userNome":"Elisa","userCognome":"Castelli","programmaID":1,"programmaNome":"Soundcheck"}] - [userID: 200;programID: 1]
+[login()] - [18-06-2022 15:26:54] - [37.119.5.93] - [{"id":169,"nome":"Leonardo","cognome":"Matta","date":"18-06-2022 15:26:54","ip":"37.119.5.93"}] - [userID: 169;programID: ]
+[logout()] - [18-06-2022 15:27:34] - [37.119.5.93] - [{"id":169,"nome":"Leonardo","cognome":"Matta","date":"18-06-2022 15:27:34","ip":"37.119.5.93"}] - [userID: ;programID: ]
+[login()] - [18-06-2022 18:52:37] - [151.20.177.6] - [{"id":1,"nome":"Andrea","cognome":"Maioli","date":"18-06-2022 18:52:37","ip":"151.20.177.6"}] - [userID: 1;programID: ]

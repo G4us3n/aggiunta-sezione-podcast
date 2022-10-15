@@ -1,0 +1,7 @@
+[login()] - [10-10-2021 01:44:27] - [213.45.35.33] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"10-10-2021 01:44:27","ip":"213.45.35.33"}] - [userID: 130;programID: ]
+[setUserData()] - [10-10-2021 01:45:26] - [213.45.35.33] - [{"userID":57,"userNome":"Valentina","userCognome":"Sarto","quota":1,"parameter":"quota","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
+[setUserData()] - [10-10-2021 01:45:40] - [213.45.35.33] - [{"userID":81,"userNome":"Xhulja","userCognome":"Doci","quota":1,"parameter":"quota","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
+[setUserData()] - [10-10-2021 01:45:46] - [213.45.35.33] - [{"userID":130,"userNome":"Stefano","userCognome":"Iachini","quota":1,"parameter":"quota"}] - [userID: 130;programID: ]
+[setUserData()] - [10-10-2021 01:45:52] - [213.45.35.33] - [{"userID":202,"userNome":"Filiberto","userCognome":"Canino","quota":1,"parameter":"quota","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
+[setUserData()] - [10-10-2021 01:47:42] - [213.45.35.33] - [{"userID":51,"userNome":"Emanuele","userCognome":"Intagliata","quota":1,"parameter":"quota","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
+[login()] - [10-10-2021 16:15:02] - [93.47.224.254] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"10-10-2021 16:15:02","ip":"93.47.224.254"}] - [userID: 111;programID: ]

@@ -1,0 +1,1 @@
+[login()] - [26-08-2022 11:09:40] - [95.74.77.252] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"26-08-2022 11:09:40","ip":"95.74.77.252"}] - [userID: 63;programID: ]

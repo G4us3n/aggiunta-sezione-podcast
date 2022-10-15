@@ -1,0 +1,2 @@
+[login()] - [16-09-2021 18:26:34] - [93.35.240.132] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"16-09-2021 18:26:34","ip":"93.35.240.132"}] - [userID: 33;programID: ]
+[logout()] - [16-09-2021 18:53:18] - [93.35.240.132] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"16-09-2021 18:53:18","ip":"93.35.240.132"}] - [userID: ;programID: ]

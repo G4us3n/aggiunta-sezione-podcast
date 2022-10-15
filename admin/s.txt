@@ -1,0 +1,8 @@
+./templates/admin.index.html.tpl:9:            Benvenut<?php echo $user->sesso ? 'a' : 'o'; ?> <b><?php echo strlen($user->pseudonimo) > 0 ? hfix($user->pseudonimo) : hfix($user->nome." ".$user->cognome);
+./includes/useractions.class.php:245:                'body'        => 'Car'.($user->sesso ? 'a' : 'o').' '.$user->nome.', il tuo indirizzo email è stato confermato.<br>'.
+./includes/useractions.class.php:248:                'nohtml_body' => 'Car'.($user->sesso ? 'a' : 'o').' '.$user->nome.', il tuo indirizzo email è stato confermato.'."\n".
+./includes/useractions.class.php:272:                'body'        => 'Car'.($user->sesso ? 'a' : 'o').' '.$user->nome.', il tuo account è stato attivato.<br>'.
+./includes/useractions.class.php:274:                'nohtml_body' => 'Car'.($user->sesso ? 'a' : 'o').' '.$user->nome.', il tuo account è stato attivato.'. "\n" .
+./includes/useractions.class.php:414:            'body'        => 'Benvenut'.($user->sesso ? 'a' : 'o').' '.$user->nome.' nell\'area staff di Poliradio!<br>'.
+./includes/useractions.class.php:416:            'nohtml_body' => 'Benvenut'.($user->sesso ? 'a' : 'o').' '.$user->nome.' nell\'area staff di Poliradio!'. "\n" .
+./printScheda.php:197:$pdf->Cell(0, 0, 'Nat'.($user->sesso == 0 ? 'o' : 'a').' a '.$user->comune_nascita.' ('.$user->provincia_nascita.') il '.$user->data_nascita);

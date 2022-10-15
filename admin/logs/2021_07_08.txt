@@ -1,0 +1,4 @@
+[login()] - [08-07-2021 09:44:01] - [37.182.8.204] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"08-07-2021 09:44:01","ip":"37.182.8.204"}] - [userID: 63;programID: ]
+[login()] - [08-07-2021 13:10:42] - [176.200.161.158] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"08-07-2021 13:10:42","ip":"176.200.161.158"}] - [userID: 147;programID: ]
+[login()] - [08-07-2021 13:12:24] - [131.175.119.96] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"08-07-2021 13:12:24","ip":"131.175.119.96"}] - [userID: 63;programID: ]
+[login()] - [08-07-2021 15:07:34] - [131.175.147.1] - [{"id":184,"nome":"Angelo","cognome":"Boglione","date":"08-07-2021 15:07:34","ip":"131.175.147.1"}] - [userID: 184;programID: ]

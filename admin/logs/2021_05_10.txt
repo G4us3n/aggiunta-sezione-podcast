@@ -1,0 +1,8 @@
+[login()] - [10-05-2021 13:26:10] - [131.175.119.96] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"10-05-2021 13:26:10","ip":"131.175.119.96"}] - [userID: 147;programID: ]
+[setUserData()] - [10-05-2021 13:33:00] - [131.175.119.96] - [{"userID":182,"userNome":"Bruna","userCognome":"Lleshi","firma":0,"parameter":"firma","adminID":147,"adminNome":"Alessandro","adminCognome":"Zito"}] - [userID: 147;programID: ]
+[login()] - [10-05-2021 17:15:34] - [95.74.33.34] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"10-05-2021 17:15:34","ip":"95.74.33.34"}] - [userID: 147;programID: ]
+[login()] - [10-05-2021 17:59:52] - [131.175.119.96] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"10-05-2021 17:59:52","ip":"131.175.119.96"}] - [userID: 63;programID: ]
+[setOnAir()] - [10-05-2021 18:00:02] - [131.175.119.96] - [{"currentUserID":63,"currentUserNome":"Alessandra","currentUserCognome":"Di Nardo","programid":19,"programma":"Domani all'una","onair":0,"day":"11-05-2021"}] - [userID: 63;programID: 19]
+[login()] - [10-05-2021 21:18:41] - [93.146.37.166] - [{"id":169,"nome":"Leonardo","cognome":"Matta","date":"10-05-2021 21:18:41","ip":"93.146.37.166"}] - [userID: 169;programID: ]
+[logout()] - [10-05-2021 21:37:13] - [93.146.37.166] - [{"id":169,"nome":"Leonardo","cognome":"Matta","date":"10-05-2021 21:37:13","ip":"93.146.37.166"}] - [userID: ;programID: ]
+[login()] - [10-05-2021 22:44:29] - [80.183.32.116] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"10-05-2021 22:44:29","ip":"80.183.32.116"}] - [userID: 111;programID: ]

@@ -1,0 +1,7 @@
+[login()] - [19-12-2021 11:26:30] - [109.115.42.60] - [{"id":25,"nome":"Michele","cognome":"Peruzzi","date":"19-12-2021 11:26:30","ip":"109.115.42.60"}] - [userID: 25;programID: ]
+[creapodcast()] - [19-12-2021 11:55:06] - [109.115.42.60] - [{"id":"2172","programmi_id":48,"utenti_id":25,"giorno":13,"mese":12,"anno":2021,"time":1639911306,"link":"https:\/\/www.mixcloud.com\/Comeincantina\/nona-puntata-quarta-stagione\/","link_youtube":"","views":0,"visibile":1,"global":0,"download":0,"filedownload":null,"filesize":null,"userID":25,"userNome":"Michele","userCognome":"Peruzzi","programmaID":48,"programmaNome":"Come In Cantina"}] - [userID: 25;programID: 48]
+[login()] - [19-12-2021 12:04:05] - [93.35.244.100] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"19-12-2021 12:04:05","ip":"93.35.244.100"}] - [userID: 33;programID: ]
+[login()] - [19-12-2021 12:37:03] - [93.71.126.37] - [{"id":118,"nome":"Giulio Mario","cognome":"Martena","date":"19-12-2021 12:37:03","ip":"93.71.126.37"}] - [userID: 118;programID: ]
+[login()] - [19-12-2021 14:57:27] - [79.21.157.8] - [{"id":109,"nome":"Giulio","cognome":"Ciocca","date":"19-12-2021 14:57:27","ip":"79.21.157.8"}] - [userID: 109;programID: ]
+[login()] - [19-12-2021 18:20:12] - [37.183.9.245] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"19-12-2021 18:20:12","ip":"37.183.9.245"}] - [userID: 63;programID: ]
+[login()] - [19-12-2021 18:46:53] - [93.55.244.153] - [{"id":166,"nome":"Ivo","cognome":"Pomponi","date":"19-12-2021 18:46:53","ip":"93.55.244.153"}] - [userID: 166;programID: ]
