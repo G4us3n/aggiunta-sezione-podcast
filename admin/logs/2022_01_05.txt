@@ -1,2 +1,0 @@
-[login()] - [05-01-2022 12:10:30] - [93.66.96.224] - [{"id":73,"nome":"Enrica","cognome":"Zoleo","date":"05-01-2022 12:10:30","ip":"93.66.96.224"}] - [userID: 73;programID: ]
-[login()] - [05-01-2022 16:01:55] - [2.197.106.133] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"05-01-2022 16:01:55","ip":"2.197.106.133"}] - [userID: 63;programID: ]

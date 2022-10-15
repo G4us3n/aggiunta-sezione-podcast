@@ -1,7 +1,0 @@
-[login()] - [23-05-2021 00:51:24] - [37.159.21.42] - [{"id":182,"nome":"Bruna","cognome":"Lleshi","date":"23-05-2021 00:51:24","ip":"37.159.21.42"}] - [userID: 182;programID: ]
-[login()] - [23-05-2021 14:51:52] - [93.45.70.123] - [{"id":174,"nome":"Matteo","cognome":"Morana","date":"23-05-2021 14:51:52","ip":"93.45.70.123"}] - [userID: 174;programID: ]
-[creapodcast()] - [23-05-2021 14:52:29] - [93.45.70.123] - [{"id":"2040","programmi_id":40,"utenti_id":174,"giorno":18,"mese":5,"anno":2021,"time":1621774349,"link":"https:\/\/www.mixcloud.com\/wannaguess\/wanna-guess-scissor-sister\/","link_youtube":"","views":0,"visibile":1,"global":0,"download":0,"filedownload":null,"filesize":null,"userID":174,"userNome":"Matteo","userCognome":"Morana","programmaID":40,"programmaNome":"WannaGuess"}] - [userID: 174;programID: 40]
-[login()] - [23-05-2021 14:57:39] - [79.16.133.175] - [{"id":104,"nome":"Lorenzo","cognome":"Battaglia","date":"23-05-2021 14:57:39","ip":"79.16.133.175"}] - [userID: 104;programID: ]
-[login()] - [23-05-2021 18:20:37] - [130.25.241.164] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"23-05-2021 18:20:37","ip":"130.25.241.164"}] - [userID: 111;programID: ]
-[login()] - [23-05-2021 21:04:09] - [93.36.220.227] - [{"id":91,"nome":"Giada","cognome":"Agnoli","date":"23-05-2021 21:04:09","ip":"93.36.220.227"}] - [userID: 91;programID: ]
-[editPassword()] - [23-05-2021 22:57:43] - [93.36.220.227] - [{"userID":91,"userNome":"Giada","userCognome":"Agnoli","date":"23-05-2021 22:57:43","ip":"93.36.220.227"}] - [userID: 91;programID: ]

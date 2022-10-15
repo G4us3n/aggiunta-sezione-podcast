@@ -1,2 +1,0 @@
-[login()] - [20-07-2021 12:29:48] - [62.19.93.65] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"20-07-2021 12:29:48","ip":"62.19.93.65"}] - [userID: 63;programID: ]
-[login()] - [20-07-2021 12:29:49] - [62.19.93.65] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"20-07-2021 12:29:49","ip":"62.19.93.65"}] - [userID: 63;programID: ]

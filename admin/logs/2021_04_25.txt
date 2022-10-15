@@ -1,8 +1,0 @@
-[login()] - [25-04-2021 15:22:52] - [87.17.178.12] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"25-04-2021 15:22:52","ip":"87.17.178.12"}] - [userID: 130;programID: ]
-[login()] - [25-04-2021 15:31:39] - [151.66.224.194] - [{"id":167,"nome":"Alessandro","cognome":"Calzi","date":"25-04-2021 15:31:39","ip":"151.66.224.194"}] - [userID: 167;programID: ]
-[login()] - [25-04-2021 15:56:34] - [131.175.147.1] - [{"id":182,"nome":"Bruna","cognome":"Lleshi","date":"25-04-2021 15:56:34","ip":"131.175.147.1"}] - [userID: 182;programID: ]
-[login()] - [25-04-2021 17:18:24] - [87.17.178.12] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"25-04-2021 17:18:24","ip":"87.17.178.12"}] - [userID: 130;programID: ]
-[login()] - [25-04-2021 19:39:31] - [87.17.178.12] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"25-04-2021 19:39:31","ip":"87.17.178.12"}] - [userID: 130;programID: ]
-[login()] - [25-04-2021 21:48:07] - [93.34.130.247] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"25-04-2021 21:48:07","ip":"93.34.130.247"}] - [userID: 147;programID: ]
-[login()] - [25-04-2021 22:03:50] - [151.66.224.194] - [{"id":167,"nome":"Alessandro","cognome":"Calzi","date":"25-04-2021 22:03:50","ip":"151.66.224.194"}] - [userID: 167;programID: ]
-[login()] - [25-04-2021 22:57:52] - [93.34.130.247] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"25-04-2021 22:57:52","ip":"93.34.130.247"}] - [userID: 147;programID: ]

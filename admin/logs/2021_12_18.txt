@@ -1,5 +1,0 @@
-[setUserData()] - [18-12-2021 00:04:24] - [93.34.129.7] - [{"userID":26,"userNome":"Mohamed","userCognome":"Omara","telegram":"Mo_Omix","parameter":"telegram","adminID":147,"adminNome":"Alessandro","adminCognome":"Zito"}] - [userID: 147;programID: ]
-[login()] - [18-12-2021 01:06:44] - [93.41.2.59] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"18-12-2021 01:06:44","ip":"93.41.2.59"}] - [userID: 62;programID: ]
-[login()] - [18-12-2021 09:35:00] - [37.163.149.221] - [{"id":206,"nome":"Angela","cognome":"Petrovska","date":"18-12-2021 09:35:00","ip":"37.163.149.221"}] - [userID: 206;programID: ]
-[login()] - [18-12-2021 14:14:56] - [37.183.9.245] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"18-12-2021 14:14:56","ip":"37.183.9.245"}] - [userID: 63;programID: ]
-[login()] - [18-12-2021 23:39:53] - [5.95.159.201] - [{"id":220,"nome":"Domenico","cognome":"Grimaldi","date":"18-12-2021 23:39:53","ip":"5.95.159.201"}] - [userID: 220;programID: ]

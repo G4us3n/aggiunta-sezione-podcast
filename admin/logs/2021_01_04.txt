@@ -1,3 +1,0 @@
-[login()] - [04-01-2021 20:51:50] - [85.18.46.172] - [{"id":164,"nome":"Sara Ehetagegnehu","cognome":"Finardi","date":"04-01-2021 20:51:50","ip":"85.18.46.172"}] - [userID: 164;programID: ]
-[setUserData()] - [04-01-2021 20:57:00] - [85.18.46.172] - [{"userID":164,"userNome":"Sara Ehetagegnehu","userCognome":"Finardi","telegram":"acutottuso","parameter":"telegram"}] - [userID: 164;programID: ]
-[setUserData()] - [04-01-2021 20:57:00] - [85.18.46.172] - [{"userID":164,"userNome":"Sara Ehetagegnehu","userCognome":"Finardi","discord":"FES#1549","parameter":"discord"}] - [userID: 164;programID: ]

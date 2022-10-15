@@ -1,3 +1,0 @@
-[login()] - [06-03-2022 15:48:00] - [82.48.185.36] - [{"id":210,"nome":"Miriam","cognome":"Tomaselli","date":"06-03-2022 15:48:00","ip":"82.48.185.36"}] - [userID: 210;programID: ]
-[login()] - [06-03-2022 16:03:38] - [82.48.185.36] - [{"id":37,"nome":"Davide","cognome":"Quercia","date":"06-03-2022 16:03:38","ip":"82.48.185.36"}] - [userID: 37;programID: ]
-[login()] - [06-03-2022 17:07:43] - [77.28.161.130] - [{"id":206,"nome":"Angela","cognome":"Petrovska","date":"06-03-2022 17:07:43","ip":"77.28.161.130"}] - [userID: 206;programID: ]

@@ -1,8 +1,0 @@
-[login()] - [03-06-2021 10:50:01] - [93.66.91.23] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"03-06-2021 10:50:01","ip":"93.66.91.23"}] - [userID: 63;programID: ]
-[login()] - [03-06-2021 10:50:01] - [93.66.91.23] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"03-06-2021 10:50:01","ip":"93.66.91.23"}] - [userID: 63;programID: ]
-[login()] - [03-06-2021 15:18:36] - [131.175.119.96] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"03-06-2021 15:18:36","ip":"131.175.119.96"}] - [userID: 63;programID: ]
-[creapodcast()] - [03-06-2021 15:18:52] - [131.175.119.96] - [{"id":"2044","programmi_id":40,"utenti_id":63,"giorno":1,"mese":6,"anno":2021,"time":1622726332,"link":"https:\/\/www.mixcloud.com\/wannaguess\/wanna-guess-cesare-cremonini\/","link_youtube":"","views":0,"visibile":1,"global":0,"download":0,"filedownload":null,"filesize":null,"userID":63,"userNome":"Alessandra","userCognome":"Di Nardo","programmaID":40,"programmaNome":"WannaGuess"}] - [userID: 63;programID: 40]
-[login()] - [03-06-2021 17:22:53] - [95.74.75.154] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"03-06-2021 17:22:53","ip":"95.74.75.154"}] - [userID: 147;programID: ]
-[login()] - [03-06-2021 17:29:14] - [131.175.147.1] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"03-06-2021 17:29:14","ip":"131.175.147.1"}] - [userID: 147;programID: ]
-[login()] - [03-06-2021 21:50:45] - [5.95.136.238] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"03-06-2021 21:50:45","ip":"5.95.136.238"}] - [userID: 62;programID: ]
-[login()] - [03-06-2021 22:01:07] - [93.34.130.247] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"03-06-2021 22:01:07","ip":"93.34.130.247"}] - [userID: 147;programID: ]

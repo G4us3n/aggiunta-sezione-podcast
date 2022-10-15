@@ -1,2 +1,0 @@
-[login()] - [11-08-2021 21:43:39] - [8.28.178.134] - [{"id":1,"nome":"Andrea","cognome":"Maioli","date":"11-08-2021 21:43:39","ip":"8.28.178.134"}] - [userID: 1;programID: ]
-[logout()] - [11-08-2021 21:44:35] - [8.28.178.134] - [{"id":1,"nome":"Andrea","cognome":"Maioli","date":"11-08-2021 21:44:35","ip":"8.28.178.134"}] - [userID: ;programID: ]

@@ -1,6 +1,0 @@
-[login()] - [18-04-2021 11:37:07] - [5.102.3.234] - [{"id":152,"nome":"Valentina","cognome":"Ferreri","date":"18-04-2021 11:37:07","ip":"5.102.3.234"}] - [userID: 152;programID: ]
-[login()] - [18-04-2021 14:22:59] - [93.45.70.123] - [{"id":174,"nome":"Matteo","cognome":"Morana","date":"18-04-2021 14:22:59","ip":"93.45.70.123"}] - [userID: 174;programID: ]
-[login()] - [18-04-2021 22:07:02] - [87.17.178.12] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"18-04-2021 22:07:02","ip":"87.17.178.12"}] - [userID: 130;programID: ]
-[setUserData()] - [18-04-2021 23:04:06] - [87.17.178.12] - [{"userID":196,"userNome":"Edoardo","userCognome":"Vicini Ronchetti","accessoredazione":"1","parameter":"accessoredazione","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
-[setUserData()] - [18-04-2021 23:04:06] - [87.17.178.12] - [{"userID":196,"userNome":"Edoardo","userCognome":"Vicini Ronchetti","attivo":2,"parameter":"attivo","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
-[setUserData()] - [18-04-2021 23:04:06] - [87.17.178.12] - [{"userID":196,"userNome":"Edoardo","userCognome":"Vicini Ronchetti","tipo":"SOCIO_ORDINARIO","parameter":"tipo","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]

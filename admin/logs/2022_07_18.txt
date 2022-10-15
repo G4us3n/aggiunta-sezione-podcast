@@ -1,6 +1,0 @@
-[login()] - [18-07-2022 00:22:10] - [2.36.107.114] - [{"id":163,"nome":"Luciano","cognome":"Oliva","date":"18-07-2022 00:22:10","ip":"2.36.107.114"}] - [userID: 163;programID: ]
-[login()] - [18-07-2022 00:23:48] - [188.216.84.123] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"18-07-2022 00:23:48","ip":"188.216.84.123"}] - [userID: 63;programID: ]
-[editFromPalinsesto()] - [18-07-2022 00:24:06] - [188.216.84.123] - [{"programmi_id":58,"giorno":2,"ora_inizio":18,"minuto_inizio":0,"ora_fine":19,"minuto_fine":0,"durata":1,"t_i":237600,"t_f":241200,"notonair":"18-05-2022","vacanza":1,"userID":63,"userNome":"Alessandra","userCognome":"Di Nardo","nomeProgramma":"Palombari"}] - [userID: 63;programID: ]
-[login()] - [18-07-2022 14:42:30] - [131.175.147.2] - [{"id":118,"nome":"Giulio Mario","cognome":"Martena","date":"18-07-2022 14:42:30","ip":"131.175.147.2"}] - [userID: 118;programID: ]
-[login()] - [18-07-2022 15:56:55] - [131.175.119.96] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"18-07-2022 15:56:55","ip":"131.175.119.96"}] - [userID: 111;programID: ]
-[login()] - [18-07-2022 20:55:51] - [31.190.17.8] - [{"id":91,"nome":"Giada","cognome":"Agnoli","date":"18-07-2022 20:55:51","ip":"31.190.17.8"}] - [userID: 91;programID: ]

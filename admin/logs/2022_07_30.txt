@@ -1,1 +1,0 @@
-[login()] - [30-07-2022 10:19:40] - [95.237.204.169] - [{"id":3,"nome":"Emanuele","cognome":"Campagnolo","date":"30-07-2022 10:19:40","ip":"95.237.204.169"}] - [userID: 3;programID: ]

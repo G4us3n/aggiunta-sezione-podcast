@@ -1,3 +1,0 @@
-[login()] - [01-09-2021 11:03:22] - [95.74.53.239] - [{"id":63,"nome":"Alessandra","cognome":"Di Nardo","date":"01-09-2021 11:03:22","ip":"95.74.53.239"}] - [userID: 63;programID: ]
-[login()] - [01-09-2021 12:22:53] - [79.56.205.98] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"01-09-2021 12:22:53","ip":"79.56.205.98"}] - [userID: 111;programID: ]
-[login()] - [01-09-2021 14:29:20] - [79.56.54.197] - [{"id":51,"nome":"Emanuele","cognome":"Intagliata","date":"01-09-2021 14:29:20","ip":"79.56.54.197"}] - [userID: 51;programID: ]

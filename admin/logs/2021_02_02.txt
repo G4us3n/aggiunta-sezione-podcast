@@ -1,5 +1,0 @@
-[login()] - [02-02-2021 00:00:24] - [95.234.222.238] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"02-02-2021 00:00:24","ip":"95.234.222.238"}] - [userID: 147;programID: ]
-[setUserData()] - [02-02-2021 00:00:48] - [95.234.222.238] - [{"userID":103,"userNome":"Federica","userCognome":"Rho","telegram":"mezckal","parameter":"telegram","adminID":147,"adminNome":"Alessandro","adminCognome":"Zito"}] - [userID: 147;programID: ]
-[createNotification()] - [02-02-2021 00:08:12] - [95.234.222.238] - [{"senderid":147,"receiverid":111,"receivertype":0,"titolo":"Ciao Matteo","contenuto":"Ti sei segato oggi?","time":1612220892,"date":"02-02-2021 00:08:12","ip":"95.234.222.238"}] - [userID: 147;programID: ]
-[login()] - [02-02-2021 00:34:37] - [151.21.31.177] - [{"id":1,"nome":"Andrea","cognome":"Maioli","date":"02-02-2021 00:34:37","ip":"151.21.31.177"}] - [userID: 1;programID: ]
-[login()] - [02-02-2021 18:07:13] - [2.44.69.79] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"02-02-2021 18:07:13","ip":"2.44.69.79"}] - [userID: 111;programID: ]

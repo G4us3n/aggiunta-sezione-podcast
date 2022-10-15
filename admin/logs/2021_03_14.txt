@@ -1,4 +1,0 @@
-[login()] - [14-03-2021 19:29:02] - [82.59.136.123] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"14-03-2021 19:29:02","ip":"82.59.136.123"}] - [userID: 130;programID: ]
-[setUserData()] - [14-03-2021 20:39:12] - [82.59.136.123] - [{"userID":194,"userNome":"Filippo","userCognome":"Lucia","accessoredazione":"1","parameter":"accessoredazione","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
-[setUserData()] - [14-03-2021 20:39:12] - [82.59.136.123] - [{"userID":194,"userNome":"Filippo","userCognome":"Lucia","attivo":2,"parameter":"attivo","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]
-[setUserData()] - [14-03-2021 20:39:12] - [82.59.136.123] - [{"userID":194,"userNome":"Filippo","userCognome":"Lucia","tipo":"SOCIO_ORDINARIO","parameter":"tipo","adminID":130,"adminNome":"Stefano","adminCognome":"Iachini"}] - [userID: 130;programID: ]

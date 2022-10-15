@@ -1,7 +1,0 @@
-[login()] - [14-01-2022 00:18:19] - [93.35.240.236] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"14-01-2022 00:18:19","ip":"93.35.240.236"}] - [userID: 33;programID: ]
-[setOnAir()] - [14-01-2022 00:18:27] - [93.35.240.236] - [{"currentUserID":33,"currentUserNome":"Alessandro","currentUserCognome":"Gibertini","programid":60,"programma":"Blue Horizon","onair":0,"day":"18-01-2022"}] - [userID: 33;programID: 60]
-[logout()] - [14-01-2022 00:18:41] - [93.35.240.236] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"14-01-2022 00:18:41","ip":"93.35.240.236"}] - [userID: ;programID: ]
-[login()] - [14-01-2022 00:19:07] - [93.35.240.236] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"14-01-2022 00:19:07","ip":"93.35.240.236"}] - [userID: 33;programID: ]
-[login()] - [14-01-2022 10:56:26] - [93.47.225.47] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"14-01-2022 10:56:26","ip":"93.47.225.47"}] - [userID: 111;programID: ]
-[login()] - [14-01-2022 13:39:15] - [5.95.136.238] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"14-01-2022 13:39:15","ip":"5.95.136.238"}] - [userID: 62;programID: ]
-[login()] - [14-01-2022 17:49:53] - [95.180.128.211] - [{"id":206,"nome":"Angela","cognome":"Petrovska","date":"14-01-2022 17:49:53","ip":"95.180.128.211"}] - [userID: 206;programID: ]

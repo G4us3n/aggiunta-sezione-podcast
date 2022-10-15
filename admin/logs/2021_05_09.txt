@@ -1,3 +1,0 @@
-[login()] - [09-05-2021 14:52:14] - [93.34.130.247] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"09-05-2021 14:52:14","ip":"93.34.130.247"}] - [userID: 147;programID: ]
-[login()] - [09-05-2021 16:30:12] - [93.36.223.207] - [{"id":91,"nome":"Giada","cognome":"Agnoli","date":"09-05-2021 16:30:12","ip":"93.36.223.207"}] - [userID: 91;programID: ]
-[login()] - [09-05-2021 21:11:40] - [93.35.241.140] - [{"id":33,"nome":"Alessandro","cognome":"Gibertini","date":"09-05-2021 21:11:40","ip":"93.35.241.140"}] - [userID: 33;programID: ]

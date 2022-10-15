@@ -1,2 +1,0 @@
-[login()] - [31-12-2021 00:24:26] - [87.3.103.51] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"31-12-2021 00:24:26","ip":"87.3.103.51"}] - [userID: 147;programID: ]
-[login()] - [31-12-2021 11:59:43] - [87.3.103.51] - [{"id":147,"nome":"Alessandro","cognome":"Zito","date":"31-12-2021 11:59:43","ip":"87.3.103.51"}] - [userID: 147;programID: ]

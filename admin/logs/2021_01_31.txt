@@ -1,2 +1,0 @@
-[login()] - [31-01-2021 17:19:58] - [2.44.69.79] - [{"id":111,"nome":"Matteo","cognome":"Boveri","date":"31-01-2021 17:19:58","ip":"2.44.69.79"}] - [userID: 111;programID: ]
-[login()] - [31-01-2021 17:22:13] - [79.17.186.151] - [{"id":130,"nome":"Stefano","cognome":"Iachini","date":"31-01-2021 17:22:13","ip":"79.17.186.151"}] - [userID: 130;programID: ]

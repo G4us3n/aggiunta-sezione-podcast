@@ -1,6 +1,0 @@
-[login()] - [04-08-2022 11:27:35] - [93.34.115.166] - [{"id":91,"nome":"Giada","cognome":"Agnoli","date":"04-08-2022 11:27:35","ip":"93.34.115.166"}] - [userID: 91;programID: ]
-[setNewsData()] - [04-08-2022 11:29:10] - [93.34.115.166] - [{"userID":91,"userNome":"Giada","userCognome":"Agnoli","programID":"redazione","programNome":"redazione","newsID":653,"newsTitolo":"Ricordi dal bosco: com'era il Woodoo fest?","visibile":1,"parameter":"visibile"}] - [userID: 91;programID: ]
-[login()] - [04-08-2022 18:25:45] - [79.40.138.170] - [{"id":109,"nome":"Giulio","cognome":"Ciocca","date":"04-08-2022 18:25:45","ip":"79.40.138.170"}] - [userID: 109;programID: ]
-[login()] - [04-08-2022 19:32:30] - [79.40.138.170] - [{"id":109,"nome":"Giulio","cognome":"Ciocca","date":"04-08-2022 19:32:30","ip":"79.40.138.170"}] - [userID: 109;programID: ]
-[login()] - [04-08-2022 19:38:58] - [79.40.138.170] - [{"id":109,"nome":"Giulio","cognome":"Ciocca","date":"04-08-2022 19:38:58","ip":"79.40.138.170"}] - [userID: 109;programID: ]
-[login()] - [04-08-2022 23:53:49] - [150.252.226.100] - [{"id":118,"nome":"Giulio Mario","cognome":"Martena","date":"04-08-2022 23:53:49","ip":"150.252.226.100"}] - [userID: 118;programID: ]

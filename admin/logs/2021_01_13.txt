@@ -1,1 +1,0 @@
-[login()] - [13-01-2021 13:02:42] - [93.41.2.3] - [{"id":62,"nome":"Giovanni","cognome":"Cassani","date":"13-01-2021 13:02:42","ip":"93.41.2.3"}] - [userID: 62;programID: ]
